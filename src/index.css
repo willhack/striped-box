@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+}
+nav {
+  box-shadow: 0px 1px 6px grey;
+  position: sticky;
+  top: 0;
+  padding: 20px;
+  background-color: white;
+}
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+}
+.striped {
+  background-image: linear-gradient(
+    45deg,
+    #ee23f5 0%,
+    #f6f0cf 0%,
+    #ee23f5 10%,
+    #f6f0cf 10%,
+    #ee23f5 30%,
+    #f6f0cf 30%,
+    #ee23f5 30%,
+    #f6f0cf 30%,
+    #ee23f5 50%,
+    #f6f0cf 50%,
+    #ee23f5 70%,
+    #f6f0cf 70%,
+    #ee23f5 90%,
+    #f6f0cf 90%,
+    #ee23f5 100%
+  );
+}
+.purple {
+  background-color: purple;
+}
+.rebeccapurple {
+  background-color: rebeccapurple;
+}
+.blueviolet {
+  background-color: blueviolet;
+}
+.darkorchid {
+  background-color: darkorchid;
+}
+.darkslategray {
+  background-color: darkslategray;
+}
+.blue {
+  background-color: blue;
+}
+.mediumblue {
+  background-color: mediumblue;
+}
+
+.indigo {
+  background-color: indigo;
+}
+
+.midnightblue {
+  background-color: midnightblue;
+}
+.pink {
+  background-color: pink;
+}
+.navy {
+  background-color: navy;
+}
+.slateblue {
+  background-color: slateblue;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  margin: 20px auto;
+}
