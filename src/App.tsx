@@ -2,7 +2,7 @@ export default function App() {
   return (
     <main>
       <nav>
-        <h1>The striped box is visible</h1>
+        <h1>The striped box is not visible</h1>
       </nav>
       <section>
         <div className="purple box" />
